@@ -1,0 +1,7 @@
+C:\Users\trajk\OneDrive\Desktop\Домашни\C\Home.work.1\Home.work.1\bin\Debug\Home.work.1.exe.config
+C:\Users\trajk\OneDrive\Desktop\Домашни\C\Home.work.1\Home.work.1\bin\Debug\Home.work.1.exe
+C:\Users\trajk\OneDrive\Desktop\Домашни\C\Home.work.1\Home.work.1\bin\Debug\Home.work.1.pdb
+C:\Users\trajk\OneDrive\Desktop\Домашни\C\Home.work.1\Home.work.1\obj\Debug\Home.work.1.csprojAssemblyReference.cache
+C:\Users\trajk\OneDrive\Desktop\Домашни\C\Home.work.1\Home.work.1\obj\Debug\Home.work.1.csproj.CoreCompileInputs.cache
+C:\Users\trajk\OneDrive\Desktop\Домашни\C\Home.work.1\Home.work.1\obj\Debug\Home.work.1.exe
+C:\Users\trajk\OneDrive\Desktop\Домашни\C\Home.work.1\Home.work.1\obj\Debug\Home.work.1.pdb
